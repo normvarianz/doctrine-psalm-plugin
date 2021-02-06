@@ -68,7 +68,7 @@ class GetRepositoryReturnTypeProvider implements MethodReturnTypeProviderInterfa
         array $template_type_parameters = null,
         string $called_fq_classlike_name = null,
         string $called_method_name_lowercase = null
-    ) {
+    ): ?Type\Union {
         AnnotationRegistry::registerLoader('class_exists');
         $reader = new AnnotationReader();
 
