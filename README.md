@@ -21,4 +21,4 @@ will be returned
 
 Add into your psalm.xml file into `<plugins>` section line
 
-`<plugin filename="vendor/runtothefather/doctrine-psalm-plugin/src/ReturnTypeProvider/GetRepositoryReturnTypeProvider.php"></plugin>`
+`<plugin filename="vendor/normvarianz/doctrine-psalm-plugin/src/ReturnTypeProvider/GetRepositoryReturnTypeProvider.php"></plugin>`
