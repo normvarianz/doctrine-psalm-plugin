@@ -1,5 +1,5 @@
 {
-    "name": "runtothefather/doctrine-psalm-plugin",
+    "name": "normvarianz/doctrine-psalm-plugin",
     "description": "Repository resolver to show psalm how to resolve getRepository method",
     "keywords": ["php", "code", "inspection", "doctrine", "orm", "doctrine2", "dbal", "psalm", "plugin", "psalm-plugin", "static analysis", "static-analysis", "extension"],
     "type": "psalm-plugin",
@@ -8,6 +8,10 @@
         {
             "name": "Evgeny Savich",
             "email": "jack.savich@gmail.com"
+        },
+        {
+            "name": "David Feller",
+            "email": "david.feller@normvarianz.de"
         }
     ],
     "require": {
