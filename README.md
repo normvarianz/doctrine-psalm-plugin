@@ -1,5 +1,7 @@
 # doctrine-psalm-plugin
 
+Based on runtothefather/doctrine-psalm-plugin
+
 By default psalm doesn't recognize return type 
 for cases like this
 
